@@ -1,0 +1,20 @@
+{
+
+    "dev": {
+        "host":"localhost",
+        "database":"identitydb",
+        "multipleStatements":true,
+        "driver": "mysql",
+        "user": "root",
+        "password": "3sl12IS006@"
+    },
+    "prod": {
+        "host":"localhost",
+        "database":"identitydb",
+        "multipleStatements":true,
+        "driver": "mysql",
+        "user": "root",
+        "password": "3sl12IS006@"
+    },
+    "sql-file":true
+  }
